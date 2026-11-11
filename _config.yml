@@ -1,0 +1,5 @@
+title: "apex-magpie-7"
+description: "Next-generation runtime and extended toolchain for magpie: High availability  and network topology specifications for yetone/magpie"
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
